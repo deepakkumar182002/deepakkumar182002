@@ -27,6 +27,6 @@ I 'm passionate front-end developer specialized in building exceptional web apps
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSyCPVE49k1DtdvD-AvLi7_aEX0vFiQH/view?usp=sharing)
 
-[![OpenAI Logo]([https://www.openai.com/assets/images/logos/openai.svg](https://octodex.github.com/images/NUX_Octodex.gif))](https://octodex.github.com/nuxtocat/)
 
+[![gif](https://www.openai.com/assets/images/logos/openai.svg)
 
