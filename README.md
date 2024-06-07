@@ -18,7 +18,7 @@ Connect with me:
 Languages and Tools:
 [![Next.js](https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000)
 -->
-I 'm passionate front-end developer specialized in building exceptional web apps and IoT Dashboard, India📍
+I 'm passionate front-end developer specialized in building exceptional webapps and IoT Dashboard, India📍
 
 
 👨‍💻 All of my projects are available at [Portfolio](https://deepakkumar-dev.vercel.app)
@@ -27,5 +27,5 @@ I 'm passionate front-end developer specialized in building exceptional web apps
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSyCPVE49k1DtdvD-AvLi7_aEX0vFiQH/view?usp=sharing)
 
-![Logo]([./images/logo.png](https://www.openai.com/assets/images/logos/openai.svg))
+![Logo](https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif)
 
