@@ -22,10 +22,10 @@ I 'm passionate front-end developer specialized in building exceptional web apps
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSyCPVE49k1DtdvD-AvLi7_aEX0vFiQH/view?usp=sharing)
 
 Connect with me:
-[![Linkedin](http://www.freepnglogos.com/uploads/official-linkedin-logo----17.png)](https://www.linkedin.com/in/deepakkumar182002/)
+[![Linkedin](https://img.icons8.com/?size=100&id=108786&format=png&color=000000)](https://www.linkedin.com/in/deepakkumar182002/)
 
 Languages and Tools:
-[![Next.js](https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png)
+[![Next.js](https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000)
 
 
 
