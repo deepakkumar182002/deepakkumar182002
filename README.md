@@ -27,6 +27,5 @@ I 'm passionate front-end developer specialized in building exceptional web apps
 
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSyCPVE49k1DtdvD-AvLi7_aEX0vFiQH/view?usp=sharing)
 
-
-[![gif](https://www.openai.com/assets/images/logos/openai.svg)
+![Logo]([./images/logo.png](https://www.openai.com/assets/images/logos/openai.svg))
 
