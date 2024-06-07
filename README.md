@@ -28,6 +28,8 @@ I 'm passionate front-end developer specialized in building exceptional web apps
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSyCPVE49k1DtdvD-AvLi7_aEX0vFiQH/view?usp=sharing)
 
 
-[githubGIF](https://octodex.github.com/images/NUX_Octodex.gif)
+[githubGIF]()
+
+[![Alt Text](https://octodex.github.com/images/NUX_Octodex.gif)]
 
 
