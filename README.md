@@ -8,10 +8,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on my on Features Projects on Checkout my [Portfolio] (deepakkumar-dev.vercel.app).
 - 🌱 I’m currently learning Interective features in Web application Field Like: React, Next.js, TailwindCSS
+Here are some ideas to get you started:
+-->
+
 
 
 
